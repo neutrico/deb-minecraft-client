@@ -1,5 +1,5 @@
 Source: minecraft-client
-Section: games
+Section: non-free/games
 Priority: extra
 Maintainer: Marcin Antczak <marcin.antczak@neutrico.pl>
 Build-Depends: debhelper (>= 8.0.0)
