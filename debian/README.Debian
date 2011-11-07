@@ -1,6 +1,9 @@
 minecraft-client for Debian
 ---------------------------
 
-<possible notes regarding this package - if none, delete this file>
+This package installs the Minecraft client by downloading it from the official
+Minecraft website. This package does *not* contain the Minecraft client itself
+as that would break copyright laws and the wishes of Markus Persson, the
+author of Minecraft.
 
- -- Marcin Antczak <marcin.antczak@neutrico.pl>  Mon, 07 Nov 2011 12:00:51 +0100
+ -- Marcin Antczak <marcin.antczak@neutrico.pl>, Mon,  7 Nov 2011 15:09:21 +0100
