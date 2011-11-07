@@ -1,0 +1,5 @@
+minecraft-client (0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Marcin Antczak <marcin.antczak@neutrico.pl>  Mon, 07 Nov 2011 12:00:51 +0100
