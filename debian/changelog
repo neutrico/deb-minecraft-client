@@ -1,3 +1,9 @@
+minecraft-client (0-1~c4dac5b-1~unstable2) unstable; urgency=low
+
+  * New build
+
+ -- Marcin Antczak <marcin.antczak@neutrico.pl>  Mon, 07 Nov 2011 17:39:01 +0100
+
 minecraft-client (0-1~c4dac5b-1~unstable1) unstable; urgency=low
 
   * New upstream version import
