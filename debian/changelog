@@ -1,3 +1,9 @@
+minecraft-client (0-1~c4dac5b-1~sid6) sid; urgency=low
+
+  * New build
+
+ -- Marcin Antczak <marcin.antczak@neutrico.pl>  Wed, 09 Nov 2011 00:57:26 +0100
+
 minecraft-client (0-1~c4dac5b-1~sid5) sid; urgency=low
 
   * New build
