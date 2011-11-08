@@ -1,3 +1,9 @@
+minecraft-client (0-1~c4dac5b-1~squeeze6) squeeze; urgency=low
+
+  * New build
+
+ -- Marcin Antczak <marcin.antczak@neutrico.pl>  Wed, 09 Nov 2011 00:56:53 +0100
+
 minecraft-client (0-1~c4dac5b-1~squeeze5) squeeze; urgency=low
 
   * New build
